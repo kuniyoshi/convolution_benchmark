@@ -1,3 +1,6 @@
+RESULT
+======
+
 ``` erlang
   39> Res = bench:comp_list_and_fsm(10).
   [{190928,216920},
@@ -16,3 +19,11 @@
   231960.7
   42>
 ```
+
+ENVIRONMENT
+===========
+
+- MacBook Air
+- OS X 10.9.2
+- 1.7 GHz Intel Core i7
+- 8 GB 1600 MHz DDR3
