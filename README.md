@@ -27,3 +27,4 @@ ENVIRONMENT
 - OS X 10.9.2
 - 1.7 GHz Intel Core i7
 - 8 GB 1600 MHz DDR3
+- Erlang R16B02 (erts-5.10.3) [source] [64-bit] [smp:4:4] [async-threads:10] [hipe] [kernel-poll:false]
